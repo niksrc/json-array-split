@@ -15,7 +15,11 @@
     "JSON",
     "array"
   ],
-  "author": "Nikhil Srivastava",
+  "author": {
+    "name": "Nikhil Srivastava",
+    "twitter": "twitter.com/srcnik",
+    "email": "niksrc@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/niksrc/json-array-split/issues"
