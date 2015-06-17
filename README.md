@@ -1,6 +1,8 @@
 ##About
 It splits a json array into arrays with specified number of elements.
 
+##Install
+````npm install json-array-split````
 ##Usage
  ````
 var jsonSplit = require('json-array-split')
